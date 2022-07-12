@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Week5Submission/static/css/main.0e5fbf28.css",
+    "main.js": "/Week5Submission/static/js/main.d705acdf.js",
+    "static/media/Sligoil-Micro.woff": "/Week5Submission/static/media/Sligoil-Micro.a9af69bb179aa44f28c1.woff",
+    "index.html": "/Week5Submission/index.html",
+    "main.0e5fbf28.css.map": "/Week5Submission/static/css/main.0e5fbf28.css.map",
+    "main.d705acdf.js.map": "/Week5Submission/static/js/main.d705acdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e5fbf28.css",
+    "static/js/main.d705acdf.js"
+  ]
+}
